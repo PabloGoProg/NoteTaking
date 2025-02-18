@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "University/Modelamiento/Introduccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introduccion"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50469207763672
+    "width": 234.50469207763672,
+    "collapsed": true
   },
   "right": {
     "id": "b778935d2c2e49b9",
@@ -142,31 +143,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Road Map.md",
+                "file": "University/Modelamiento/Introduccion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Road Map"
-            }
-          },
-          {
-            "id": "39bb15b22e13b41d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Introduccion"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +168,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false
     }
   },
   "active": "fa3dfca443b98556",
   "lastOpenFiles": [
     "README.md",
+    "University/Modelamiento/Introduccion.md",
     "sources/Pasted image 20250212114956.png",
     "git@github.com:PabloGoProg/NoteTaking.git",
     "git@github.com:PabloGoProg",
@@ -220,7 +212,7 @@
     "Programming/Essentials/Docker/Commands.md",
     "Temporary/Tasks.md",
     "Untitled.canvas",
-    "University/Uni - Mod/Modelado de Sistemas complejos.md",
+    "University/Modelamiento/Modelado de Sistemas complejos.md",
     "Uni - Mod/Untitled.md",
     "Programming/Essentials/Docker/Fundamentals.md",
     "Essentials/Untitled.md"
