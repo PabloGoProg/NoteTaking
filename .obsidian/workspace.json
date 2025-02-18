@@ -11,10 +11,14 @@
             "id": "fa3dfca443b98556",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3c6d2e92fbad8919",
+  "active": "fa3dfca443b98556",
   "lastOpenFiles": [
     "README.md",
     "sources/Pasted image 20250212114956.png",
