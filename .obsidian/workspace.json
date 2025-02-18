@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "1563f1c248f924a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83c5fda6a5b5e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa3dfca443b98556",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca0692c5159423a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccf1fedf60eeeaf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c6d2e92fbad8919",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9088fec3b2c681a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cc29982f17e7c1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.50469207763672
+  },
+  "right": {
+    "id": "b778935d2c2e49b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e972df6e6d08a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b98067bbf344ffd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Road Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Road Map"
+            }
+          },
+          {
+            "id": "7a46e996ef7d3589",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Road Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Road Map"
+            }
+          },
+          {
+            "id": "31198b3fe9cb30d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3480a642f710a317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Road Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Road Map"
+            }
+          },
+          {
+            "id": "39bb15b22e13b41d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3c6d2e92fbad8919",
+  "lastOpenFiles": [
+    "sources/Pasted image 20250212114956.png",
+    "git@github.com:PabloGoProg/NoteTaking.git",
+    "git@github.com:PabloGoProg",
+    "AWS Partner - Gen AI/Resources.md",
+    "sources",
+    "README.md",
+    "Programming/Gen AI/2 - GenAI - Basics/1 - Transformers.md",
+    "AWS Partner - Gen AI",
+    "Programming/Gen AI/2 - GenAI - Basics/3- LLMs.md",
+    "Programming/Gen AI/2 - GenAI - Basics/2 - Foundational Models.md",
+    "Programming/Gen AI/2 - GenAI - Basics/4 - Prompt Engineering.md",
+    "Programming/Gen AI/Topics.md",
+    "Programming/Gen AI/2 - GenAI - Basics/5 - Agents/Basics of Agents.md",
+    "Programming/Gen AI/2 - GenAI - Basics/5 - Agents",
+    "Temporary/Outlier/Multilingual Static Comparison/QUICK START.md",
+    "Temporary/Outlier/Spanish Rubrics/IMPORTANT.md",
+    "Temporary/Outlier/Multilingual Static Comparison",
+    "Temporary/Outlier/Spanish Rubrics",
+    "Temporary/Outlier/Untitled.md",
+    "Temporary/Outlier",
+    "Untitled.md",
+    "Programming/Gen AI/1 - ML-AI Fundamentals/NLP.md",
+    "Programming/Gen AI/1 - ML-AI Fundamentals/AI Layers.md",
+    "Programming/Gen AI/1 - ML-AI Fundamentals/Building Machine Learning Models.md",
+    "sources/Pasted image 20250213135908.png",
+    "sources/Pasted image 20250213090440.png",
+    "sources/Pasted image 20250213090411.png",
+    "sources/Pasted image 20250212162303.png",
+    "sources/Pasted image 20250212161800.png",
+    "sources/Pasted image 20250212145916.png",
+    "Programming/Gen AI/2 - GenAI - Basics",
+    "Programming/Gen AI/Fundamentals/Gen AI BASICS.md",
+    "Programming/Gen AI/1 - ML-AI Fundamentals",
+    "Programming/Gen AI/Fundamentals of Gen AI.md",
+    "Uni.md",
+    "Programming/Essentials/Docker/Commands.md",
+    "Temporary/Tasks.md",
+    "Untitled.canvas",
+    "University/Uni - Mod/Modelado de Sistemas complejos.md",
+    "Uni - Mod/Untitled.md",
+    "Programming/Essentials/Docker/Fundamentals.md",
+    "Essentials/Untitled.md"
+  ]
+}
