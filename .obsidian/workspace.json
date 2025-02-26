@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "C2"
             }
+          },
+          {
+            "id": "2d871201b19b8a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.50469207763672,
-    "collapsed": true
+    "width": 234.50469207763672
   },
   "right": {
     "id": "b778935d2c2e49b9",
@@ -171,10 +185,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "af5d7f04ef2d958c",
+  "active": "2d871201b19b8a3c",
   "lastOpenFiles": [
-    "Audit Bancolombia/C12.md",
+    "Untitled.md",
     "Audit Bancolombia/C2.md",
+    "Audit Bancolombia/C12.md",
     "Audit Bancolombia/C24.md",
     "Audit Bancolombia/C3.md",
     "Audit Bancolombia.md",
@@ -215,7 +230,6 @@
     "Uni.md",
     "Programming/Essentials/Docker/Commands.md",
     "Temporary/Tasks.md",
-    "Untitled.canvas",
-    "University/Modelamiento/Modelado de Sistemas complejos.md"
+    "Untitled.canvas"
   ]
 }
