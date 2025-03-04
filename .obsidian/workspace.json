@@ -11,10 +11,26 @@
             "id": "c836a8d61c4e1126",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "University/Modelamiento/Introduccion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduccion"
+            }
+          },
+          {
+            "id": "97f467c5e9ac8477",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ]
@@ -74,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -157,11 +172,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c836a8d61c4e1126",
   "lastOpenFiles": [
+    "Temporary/Tasks.md",
+    "README.md",
+    "University/Modelamiento/Introduccion.md",
     "sources/Pasted image 20250213135908.png",
     "sources/Pasted image 20250213090440.png",
     "sources/Pasted image 20250213090411.png",
@@ -170,12 +189,9 @@
     "sources/Pasted image 20250212145916.png",
     "sources/Pasted image 20250212114956.png",
     "sources",
-    "University/Modelamiento/Introduccion.md",
     "University/Modelamiento",
     "University",
-    "Temporary/Tasks.md",
     "Temporary",
-    "README.md",
     "Programming/Gen AI/2 - GenAI - Basics/5 - Agents/Basics of Agents.md",
     "Programming/Essentials/Docker/Fundamentals.md",
     "Programming/Essentials/Docker/Commands.md",
