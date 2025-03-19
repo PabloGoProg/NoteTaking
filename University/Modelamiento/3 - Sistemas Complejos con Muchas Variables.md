@@ -32,7 +32,8 @@ _Automata(s)_ -> Maquina teorica que cambia sus estado interno segun sus entrada
 * _Limite - Borde:_ 
 	* Sin limites -> Espacio infinito.
 	* Limites de corte -> Espacio limitado -> no hay vecinos de ciertas dimensiones.
-	* Limites fijos -> Se asume que las celulas encontradas en los bordes _nunca_ cambiaran.
-	* 
+	* Limites fijos -> Se asume que las células encontradas en los bordes _nunca_ cambiaran.
+### Reglas de Autómatas Celulares
 
-
+1. _Regla de Mayoría:_ Se actualiza el valor conforme al valor que tengan la mayoría de sus vecinos.
+2. _Regla de Paridad:_ 
