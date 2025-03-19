@@ -8,7 +8,7 @@ Tres variantes de uso:
 [**Prompt Exmaples**](https://docs.github.com/en/copilot/copilot-chat-cookbook)
 
 * Copilot ofrece distintos LLM's entre los cuales elegir para maximizar los resultados obtenidos del trabajo realizado con el copiloto. Se puede realizar el cambio desde la configs de Copilot.
-* Copilot usa el [[Chat Context]] dado para generar las mejores respuestas posibles.
+* Copilot usa el [[02- Chat Context]] dado para generar las mejores respuestas posibles.
 ### Chat Participants
 Son expertos en su determinado campo, son invocados a traves de `@` seguido del nombre del participante requerido - SI bien existen muchos por defecto, se pueden agregar mas a traves de extensiones.
 
@@ -67,3 +67,5 @@ Similar al `Inline Chat` del Workspace, pero se realiza desde la terminal integr
 |Use participants & commands||✅||✅|
 |Generate shell commands||✅||✅|
 |General-purpose chat||✅|✅|✅|
+
+[Tutorial de uso de Copilot Chat](https://code.visualstudio.com/docs/copilot/getting-started-chat)
