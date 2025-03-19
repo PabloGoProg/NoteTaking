@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -167,12 +166,13 @@
   },
   "active": "a09bbb9d772d91db",
   "lastOpenFiles": [
+    "README.md",
+    "Pasted image 20250318161113.png",
+    "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
     "University/Modelamiento/2 - Sistemas Dinámicos con Bifurcaciones.md",
     "University/Modelamiento/1 - Introducción.md",
-    "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
     "Onboarding manufacturer_doorpost.md",
     "Programming/Tools/GitHub Copilot/VSCode/Copilot Chat.md",
-    "Pasted image 20250318161113.png",
     "Programming/Tools/GitHub Copilot/VSCode/Chat Context.md",
     "Programming/Tools/GitHub Copilot/VSCode/Code Completions.md",
     "Programming/Tools/GitHub Copilot/QuickStart.md",
@@ -197,7 +197,6 @@
     "Programming/AI",
     "sources/Screenshot 2025-03-11 at 2.32.19 PM.png",
     "Audit Bancolombia/C13.md",
-    "README.md",
     "Neuroimagen.md",
     "Audit Bancolombia.md",
     "University/CognitiVital/Referencias Bibliograficas.md",
