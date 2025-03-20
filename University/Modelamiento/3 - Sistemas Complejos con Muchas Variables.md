@@ -37,3 +37,4 @@ _Automata(s)_ -> Maquina teorica que cambia sus estado interno segun sus entrada
 
 1. _Regla de Mayoría:_ Se actualiza el valor conforme al valor que tengan la mayoría de sus vecinos.
 2. _Regla de Paridad:_ 
+

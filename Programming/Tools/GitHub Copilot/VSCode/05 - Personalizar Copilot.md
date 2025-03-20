@@ -9,8 +9,6 @@ Se puede ajustar las respuestas generadas por Copilot usando detalles de requeri
 - _VS Code aplica estas configuraciones tras bambalinas a Copilot en cualquiera de los chats.
 - _Las instrucciones deben de ser escritas en lenguaje natural y deben ser cortas_
 - _Las instrucciones deben ser aplicadas en el archivo `settings.json`_
-
-
 ### Instrucciones para la Generación de Código
 Se pueden configurar de forma global desde `github.copilot.chat.codeGeneration.instructions`
 Pueden ser:
@@ -43,4 +41,64 @@ Además, se pueden configurar de manera local a un `Workspace` usando el archivo
 
 1. Usar `github.copilot.chat.codeGeneration.useInstructionFiles` como `true` para que se permita uso de archivos de configuración personalizados.
 2. Crear el archivo `.github/copilot-instructions.md` en la raíz del `workspace`.
-3. 
+3. Usar lenguaje natural para las instrucciones, las mismas deben ser cortas y claras.
+
+### Instrucciones para la Generación de Pruebas
+Se pueden configurar de forma global desde `github.copilot.chat.testGeneration.instructions`. Pueden ser configurado a nivel de global (usuario) o de directorio (local)
+
+``` json
+"github.copilot.chat.testGeneration.instructions": [
+	{
+		"text": "Always use vitest for testing React components."
+	},
+	{
+		"text": "Use Jest for testing JavaScript code."
+	},
+	{
+		"file": "code-style.md" // import instructions from file `code-style.md`
+	}
+],
+```
+
+### Instrucciones para la Generación de Mensajes de Commit 
+Copilot permite configurar instrucciones para generar mensajes de commit que tengan en cuenta formatos y estructuras especificas - Se puede configurar desde `github.copilot.chat.commitMessageGeneration.instructions`.
+
+``` JSON
+{
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    "Use present tense in commit messages.",
+    "Generate concise yet informative commit messages (50-72 characters in the first line).",
+    "If the commit fixes a bug, start with 'Fix: '.",
+    "If the commit adds a new feature, start with 'Feat: '.",
+    "If the commit improves performance, start with 'Perf: '.",
+    "If the commit updates documentation, start with 'Docs: '.",
+    "If the commit refactors code without changing functionality, start with 'Refactor: '.",
+    "If the commit adds tests, start with 'Test: '.",
+    "If the commit changes configuration or dependencies, start with 'Chore: '.",
+    "Include a clear summary of the changes in the first line.",
+    "If it's a significant change, provide additional details in a separate message body after a blank line.",
+    "If the commit resolves an issue, use 'Closes #ISSUE_NUMBER'."
+  ]
+}
+```
+
+### Instrucciones para la Generación de Pull Requests
+SI se cuenta con la extensión _GitHub Pull Request_ se puede usar Copilot para generar la descripción de pull requests. Se pueden configurar desde `github.copilot.chat.pullRequestDescriptionGeneration.instructions`.
+
+``` JSON
+{
+  "github.copilot.chat.pullRequestGeneration.instructions": [
+    "Write a clear and concise title summarizing the purpose of the pull request.",
+    "Start the description with a brief summary of the changes.",
+    "If the PR fixes an issue, mention it using 'Closes #ISSUE_NUMBER'.",
+    "Provide context on why these changes were made.",
+    "List key changes or features in bullet points.",
+    "If there are breaking changes, include a 'Breaking Changes' section.",
+    "If applicable, mention any dependencies added or updated.",
+    "Include testing instructions if necessary.",
+    "Keep the language professional and objective.",
+    "End with a call to action, such as 'Please review and provide feedback.'."
+  ]
+}
+```
+
