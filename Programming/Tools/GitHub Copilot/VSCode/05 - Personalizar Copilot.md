@@ -102,3 +102,5 @@ SI se cuenta con la extensión _GitHub Pull Request_ se puede usar Copilot para 
 }
 ```
 
+- [ ] Investigar sobre _reusable prompt files_ - Feature experimental
+
