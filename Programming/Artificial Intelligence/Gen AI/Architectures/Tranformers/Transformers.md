@@ -8,7 +8,7 @@ Transformers are computational neural networks that contains the next layers:
 
 **IMPORTANT:** All this explanation in based on GPT-3 Model.
 ## 1. Embedding Matrix
-First we need to know that GPT's model has a base vocab, including more than 50k words, here, the first matrix we'll find in the model is the embedding matrix [[3- LLMs]], which contains a column for each token on the vocab. Each value of this matrix is know as `weight`, which are the final values learned from the training process.
+First we need to know that GPT's model has a base vocab, including more than 50k words, here, the first matrix we'll find in the model is the embedding matrix [[LLMs]], which contains a column for each token on the vocab. Each value of this matrix is know as `weight`, which are the final values learned from the training process.
 
 ```
 [
@@ -24,6 +24,7 @@ First we need to know that GPT's model has a base vocab, including more than 50k
 ```
 
 Its crucial to know that the _dot product_ between two embeddings represents the semantic connection between those two.
+
 - if the result is positive, the the vectors points similar directions.
 - if the result is 0, the vectors are perpendicular one to each other.
 - if the result is negative, the vectors points opposite directions.

@@ -1,3 +1,0 @@
-# NoteTaking
-
-Hello

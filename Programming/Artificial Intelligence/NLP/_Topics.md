@@ -1,7 +1,7 @@
 ### Text Wrangling and Pre-pocessing
 - Conversion -> Lowercasing, Uppercasing, ... etc.
 - Sanitization -> Stripping content from the text content
-- Tokenization ([[3- LLMs]])
+- Tokenization ([[LLMs]])
 - Stemming
 - Lemmatization
 ### Lang Understanding
