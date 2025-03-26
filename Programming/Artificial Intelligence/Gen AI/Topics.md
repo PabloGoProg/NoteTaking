@@ -1,5 +1,5 @@
 ## Introduction To ML & AI (Fundamentals)
-1. Vectors and Embeddings ([[3- LLMs]])
+1. Vectors and Embeddings ([[LLMs]])
 2. RNN's
 3. CNN's
 4. Transformer Architectures

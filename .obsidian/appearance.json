@@ -1,4 +1,7 @@
 {
-  "cssTheme": "Obsidianite",
-  "theme": "obsidian"
+  "cssTheme": "Border",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "JetBrains Mono,MesloLGS NF",
+  "interfaceFontFamily": "Fira Code"
 }

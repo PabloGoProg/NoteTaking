@@ -1,4 +1,4 @@
-Large Language Models are [[2 - Foundational Models]] can be based on a variety of architectures -- The most common nowadays is the [[1 - Transformers]] architecture, giving models capable of understand and generate human-like text.
+Large Language Models are [[Foundational Models]] can be based on a variety of architectures -- The most common nowadays is the [[Transformers]] architecture, giving models capable of understand and generate human-like text.
 
 __Tokens__: are the basic unit of the text processed. -- can be words phrases or individual chars.
 
