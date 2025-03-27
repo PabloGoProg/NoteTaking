@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50694274902344,
-    "collapsed": true
+    "width": 233.50694274902344
   },
   "right": {
     "id": "b778935d2c2e49b9",
@@ -179,8 +178,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3c6d2e92fbad8919",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
     "VC-SOFT/Techs/EDA.md",
     "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Tokens.md",
     "VC-SOFT/Techs/EDA",
@@ -201,7 +202,6 @@
     "Settings/Theme Settings.md",
     "VC-SOFT/AWS Partner - Gen AI/Resources.md",
     "Onboarding manufacturer_doorpost.md",
-    "Untitled.md",
     "University/Modelamiento/1 - Introducción.md",
     "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
     "Programming/Tools/GitHub Copilot/VSCode/05 - Personalizar Copilot.md",
@@ -218,7 +218,6 @@
     "sources/Pasted image 20250212114956.png",
     "sources/Pasted image 20250312190528.png",
     "sources/Screenshot 2025-03-11 at 2.32.19 PM.png",
-    "Untitled 1.md",
     "University/Modelamiento/Sistemas Dinámicos con Bifurcaciones.md",
     "University/Modelamiento/Sistemas Complejos con Muchas Variables.md",
     "University/CognitiVital/Referencias Bibliograficas.md",
