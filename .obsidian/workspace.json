@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "1563f1c248f924a2",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "e83c5fda6a5b5e06",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "af5d7f04ef2d958c",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VC-SOFT/Techs/EDA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "EDA"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "af5d7f04ef2d958c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Tokens.md",
     "VC-SOFT/Techs/EDA.md",
+    "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Tokens.md",
     "VC-SOFT/Techs/EDA",
     "VC-SOFT/Techs",
     "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Transformers.md",
