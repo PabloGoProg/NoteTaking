@@ -2,8 +2,8 @@ La Arquitectura Basada en Eventos (EDA), es una arquitectura basada en el patró
 
 En esta arquitectura se cuenta con los siguientes elementos:
 `Publisher -> [ Message Broker ] -> Micro Servicios Consumidores`
-
-- **Publisher**: Micro servicio encargado de publicar el evento.
+[[TO-DO]]
+- **Publisher:** Micro servicio encargado de publicar el evento.
 - **Message Broker:** Actúan como una ubicación centralizada para:
 	- Ingerir y filtrar los eventos recibidos.
 	- Definir control de acceso y políticas sobre quienes publican y quienes consumen.
