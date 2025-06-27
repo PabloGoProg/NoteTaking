@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "43bd43e2bc68892e",
+        "id": "65782fe549152a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "a09bbb9d772d91db",
+            "id": "7836131fb3676808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
+                "file": "Programming/Artificial Intelligence/Gen AI/Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3 - Sistemas Complejos con Muchas Variables"
+              "title": "Topics"
             }
           },
           {
-            "id": "0bdac221b1ddd5f4",
+            "id": "d427007a7ef60d47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Entrevistas Chicos SENA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Entrevistas Chicos SENA"
+            }
+          },
+          {
+            "id": "0cb8d2bd58ea8c74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Second Brain/TO-DO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TO-DO"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mod & Simulations/Untitled.md",
+                "file": "Hyperion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Hyperion"
             }
           },
           {
@@ -165,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -176,47 +190,48 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0bdac221b1ddd5f4",
+  "active": "0cb8d2bd58ea8c74",
   "lastOpenFiles": [
-    "Untitled.md",
-    "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
+    "Cursor Agents Prompts.md",
     "_Second Brain/TO-DO.md",
-    "_Second Brain",
-    "VC-SOFT/Techs/EDA.md",
-    "VC-SOFT/AWS Partner - Gen AI/Resources.md",
-    "VC-SOFT/Techs",
-    "VC-SOFT/AWS Partner - Gen AI",
-    "VC-SOFT",
-    "Settings/Theme Settings.md",
-    "Settings",
-    "Programming/Docker/Fundamentals.md",
-    "Programming/Docker/Commands.md",
-    "Programming/Docker",
-    "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Transformers.md",
-    "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Tokens.md",
-    "Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers",
-    "Programming/Artificial Intelligence/Gen AI/Agents/Basics of Agents.md",
-    "Programming/Artificial Intelligence/NLP/_Topics.md",
-    "Programming/Artificial Intelligence/Machine Learning/Building Machine Learning Models.md",
-    "Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
+    "Entrevistas Chicos SENA.md",
     "Programming/Artificial Intelligence/Gen AI/Topics.md",
-    "Programming/Artificial Intelligence/Deep Learning/Untitled.md",
+    "VC-SOFT/Capacitaciones/Conectividad Segura.md",
+    "React Tips.md",
+    "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
+    "VC-SOFT/Capacitaciones",
+    "VC-SOFT/Davivienda - Mobile.md",
+    "Programming/Tools/GitHub Copilot.zip",
+    "Hyperion.md",
+    "VC-SOFT/Techs/IBM Blueworks Live.md",
+    "University/CognitiVital/Algoritmoooo.md",
+    "VC-SOFT/_Gen AI - Bítacora/Investigaciones y Consultas/Selección de Modelos Locales.md",
     "Programming/Artificial Intelligence/Gen AI/LLMs.md",
-    "Programming/Artificial Intelligence/Gen AI/Foundational Models.md",
-    "Programming/Artificial Intelligence/Gen AI/Architectures",
-    "Programming/Artificial Intelligence/Gen AI/Agents",
-    "Programming/Artificial Intelligence/Prompt Engineering.md",
-    "Programming/Artificial Intelligence/NLP",
-    "Temporary/Tasks.md",
-    "Programming/Tools/GitHub Copilot/VSCode/05 - Personalizar Copilot.md",
-    "Programming/Tools/GitHub Copilot/VSCode/04 - Copilot Edits.md",
-    "Programming/Tools/GitHub Copilot/VSCode/03 - Copilot Chat.md",
-    "Programming/Tools/GitHub Copilot/VSCode/02- Chat Context.md",
-    "Programming/Tools/GitHub Copilot/VSCode/01 - Code Completions.md",
-    "README.md",
+    "Programming/Docker/Commands.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Overtfitting.md",
+    "VC-SOFT/_Gen AI - Bítacora/Investigaciones y Consultas",
+    "VC-SOFT/_Gen AI - Bítacora/Untitled.md",
+    "VC-SOFT/_Gen AI - Bítacora/Integraciones n8n",
+    "VC-SOFT/_Gen AI - Bítacora/Untitled 1.md",
+    "VC-SOFT/_Gen AI - Bítacora",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Convolution.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
+    "University/Modelamiento/2 - Sistemas Dinámicos con Bifurcaciones.md",
+    "University/Modelamiento/1 - Introducción.md",
+    "University/Modelamiento/Talleres/Taller - Segundo Corte.md",
+    "University/Modelamiento/Talleres",
+    "VC-SOFT/Blogs/TDD.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Perceptron.md",
+    "VC-SOFT/Blogs",
+    "Untitled",
+    "_Second Brain/Daily Notes/Recurrent Neural Networks (RNN).md",
+    "_Second Brain/Daily Notes/Clase Sincronica 2 - DL.md",
+    "_Second Brain/Daily Notes",
+    "Excalidraw",
     "Pasted image 20250318161113.png",
     "sources/Pasted image 20250318145606.png",
     "sources/Pasted image 20250312190528.png",

@@ -46,11 +46,28 @@ Son un conjunto de vertices y aristas que se interconectan entre si.
 2. Lista de Adyacencia ![](https://www.researchgate.net/publication/309278789/figure/fig14/AS:750920426086401@1556044789767/Grafo-dirigido-con-su-representacion-como-lista-de-adyacencia.ppm)
 
 **Clasificación de las redes:**
-- _Grado:_ el número de lazos conectados a un nodo -Si un nodo esta conectado a dos vecinos tiene grado _dos_.
-- _Caminata - recorrido:_ Lista de nodos secuenciales usados para hacer un recorrido en la red.
-	- _Sendero_: No pasa por ningún lazo más de una vez.
-	- _Camino:_ No pasa por ningún nodo más de una vez.
-	- _Ciclo:_ Empieza y termina en el mismo nodo, pero no repite ni nodos ni enlaces en su recorrido.
+- __Grado_:_ el número de lazos conectados a un nodo -Si un nodo esta conectado a dos vecinos tiene grado _dos_.
+- __Caminata - recorrido:__ Lista de nodos secuenciales usados para hacer un recorrido en la red.
+	- __Sendero__: No pasa por ningún lazo más de una vez.
+	- __Camino:__ No pasa por ningún nodo más de una vez.
+	- __Ciclo:__ Empieza y termina en el mismo nodo, pero no repite ni nodos ni enlaces en su recorrido.
 - _Sub-red:_ 
 - _Conectada:_ Siempre que exista un camino para cada par de nodos.
 - _Componente conectado:_
+****
+
+### Topología de Redes
+**Grafos Completos:** Todos los nodos se conectan entre si.
+**Grafos Regulares:** Todos los nodos tienen el mismo tamaño.
+**Grafos de Árbol:** No hay ciclos.
+**Grafos de Bosque:** Hay muchos árboles.
+**Grafo Planar:** Se puede llevar a las dos dimensiones.
+**Grafos n-partitas:** Se pueden dividir en grupos que no se conectan entre si.
+
+### Tipos de Arista
+**Dirigidas:** Hay una relación en una sola dirección (A -> B) - En los no dirigidos la relación entre A y B sería bi direccional.
+**Ponderadas:** Se le define un peso a la conexión entre dos nodos.
+**Bucles:** Inician y terminan en el mismo nodo.
+
+---
+# 

@@ -1,9 +1,8 @@
 [
   "github-sync",
-  "obsidian-icon-folder",
   "obsidian-style-settings",
-  "omnisearch",
+  "obsidian-icon-folder",
+  "obsidian-excalidraw-plugin",
   "auto-card-link",
-  "obsidian-reminder-plugin",
-  "homepage"
+  "multi-column-markdown"
 ]
