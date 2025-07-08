@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8c4988c9f58e7b2",
+            "id": "1cf260b8a2330063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Second Brain/TO-DO.md",
+                "file": "VC-SOFT/Entrenamientos/API Gateway/AWS API Gateway.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TO-DO"
+              "title": "AWS API Gateway"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.50490188598633,
+    "collapsed": true
   },
   "right": {
     "id": "e29b19a40eaa26d6",
@@ -165,41 +166,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c8c4988c9f58e7b2",
+  "active": "1cf260b8a2330063",
   "lastOpenFiles": [
+    "Screenshot 2025-07-08 083818.png",
+    "Screenshot 2025-07-08 083714.png",
+    "VC-SOFT/Entrenamientos/Hex Architecture/Domain Driven Design (DDD).md",
+    "VC-SOFT/Entrenamientos/API Gateway/API Gateway.md",
+    "VC-SOFT/Entrenamientos/Web Sockets/Web Socket.md",
+    "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
+    "VC-SOFT/Entrenamientos/Hex Architecture/Arquitectura Hexagonal.md",
+    "VC-SOFT/Entrenamientos/API Gateway/AWS API Gateway.md",
+    "VC-SOFT/Entrenamientos/API Gateway",
+    "VC-SOFT/Entrenamientos/Untitled.md",
     "Untitled.md",
-    "Untitled 1.md",
-    "Hyperion.md",
+    "Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
+    "Programming/Artificial Intelligence/Gen AI/Agents/Basics of Agents.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Perceptron.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Overtfitting.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Convolution.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
+    "Pasted image 20250707115216.png",
+    "_Second Brain/TO-DO.md",
+    "VC-SOFT/Entrenamientos/Web Sockets",
+    "VC-SOFT/Entrenamientos/Apache Kafka/Install.md",
+    "VC-SOFT/Entrenamientos/Hex Architecture",
+    "VC-SOFT/Entrenamientos/Hex Architectura.md",
+    "VC-SOFT/Entrenamientos/API/XML/Ejemplo - WSDL.md",
+    "VC-SOFT/Entrenamientos/API/XML/Ejemplo - XML SOAP.md",
+    "VC-SOFT/Techs/EDA.md",
+    "VC-SOFT/Entrenamientos/API/XML",
+    "VC-SOFT/Davivienda - Mobile.md",
+    "Settings/Theme Settings.md",
+    "VC-SOFT/Entrenamientos/API",
+    "VC-SOFT/Entrenamientos/Apache Kafka",
+    "VC-SOFT/Entrenamientos/IBM ACE",
+    "VC-SOFT/Entrenamientos/IBM MQ",
+    "VC-SOFT/Entrenamientos/MQ.md",
+    "VC-SOFT/Entrenamientos",
     "Cursor Agents Prompts.md",
     "Entrevistas Chicos SENA.md",
-    "_Second Brain/TO-DO.md",
-    "_Second Brain/Daily Notes/Recurrent Neural Networks (RNN).md",
-    "_Second Brain/Daily Notes/Clase Sincronica 2 - DL.md",
     "_Second Brain/Daily Notes",
-    "VC-SOFT/_Gen AI - Bítacora/Investigaciones y Consultas/Selección de Modelos Locales.md",
-    "VC-SOFT/_Gen AI - Bítacora/Investigaciones y Consultas",
-    "VC-SOFT/_Gen AI - Bítacora",
-    "VC-SOFT/Techs/IBM Blueworks Live.md",
-    "VC-SOFT/Davivienda - Mobile.md",
-    "VC-SOFT/Capacitaciones/Conectividad Segura.md",
-    "VC-SOFT/Capacitaciones",
-    "VC-SOFT/Blogs/TDD.md",
-    "VC-SOFT/Blogs",
-    "University/Modelamiento/Talleres/Taller - Segundo Corte.md",
-    "University/Modelamiento/Talleres",
-    "University/CognitiVital/Algoritmoooo.md",
-    "Excalidraw/Drawing 2025-03-29 01.29.32.excalidraw.md",
-    "Excalidraw",
-    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Perceptron.md",
-    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Convolution.md",
-    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Overtfitting.md",
-    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
-    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks",
-    "Settings/Theme Settings.md",
-    "Settings",
     "sources/Screenshot 2025-03-11 at 2.32.19 PM.png",
     "sources/Pasted image 20250213135908.png",
     "sources/Pasted image 20250318145606.png",
@@ -207,14 +217,6 @@
     "sources/Pasted image 20250213090411.png",
     "sources/Pasted image 20250212162303.png",
     "sources/Pasted image 20250213090440.png",
-    "sources/Pasted image 20250212161800.png",
-    "sources/Pasted image 20250212145916.png",
-    "sources/Pasted image 20250212114956.png",
-    "sources",
-    "VC-SOFT/Techs/EDA.md",
-    "VC-SOFT/AWS Partner - Gen AI/Resources.md",
-    "University/Modelamiento/2 - Sistemas Dinámicos con Bifurcaciones.md",
-    "University/Modelamiento/3 - Sistemas Complejos con Muchas Variables.md",
-    "University/Modelamiento/1 - Introducción.md"
+    "sources/Pasted image 20250212161800.png"
   ]
 }

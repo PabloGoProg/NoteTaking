@@ -1,17 +1,24 @@
- # Personal
-- [ ] Corte de pelo - Mañana a las 6:00 PM
+## Personal
 - [ ] Dentista
 - [ ] Papeleo ICETEX
 ## Work
-- [x] Finalizar entrevistas chicos SENA
 - [ ] Actualizar los logs de seguridad de SOPHOS
-- [ ] Llenar Bitacora
-- [ ] Comenzar con la redacción del informe final de practica
-- [ ] Corregir las entregas actuales (Informe inicial)
+- [ ] Sesión de Entrenamiento
+	- [ ] WebSockets
+	- [ ] AWS API Gateway
+	- [ ] Domain Driven Design
+	- [ ] Arquitectura Hexagonal
 ## University
-- [x] Preguntar so
-- [ ] bre renovación de próximo semestre
+
+## Procesos Judiciales
+- [ ] Reunión de Planeación con Tommy y Carlos
 ## CognitiVital
-- [ ] Solucionar Bug del registro - ids cambiantes
-- [ ] Avanzar con el desarrollo de la sección del ParQ y el consumo de las rutinas
 - [ ] Leer los artículos propuestos
+- [ ] Backend
+	- [ ] Sistema de cache para denegar tokens
+	- [ ] Sistema de renovación de Tokens
+- [ ] FRONTEND
+	- [ ] Manejo de estado global de usuario y la auth
+	- [ ] Llamados al API
+	- [ ] ParQ
+	- [ ] Consumo de las rutinas
