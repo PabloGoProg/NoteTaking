@@ -1,7 +1,7 @@
 Un API Gateway es un componente clave en arquitecturas distribuidas de microservicios que actúa como un **punto de entrada único** para todas las peticiones externas dirigidas a los servicios internos de una aplicación. Se encarga de **recibir, enrutar, transformar y gestionar** las solicitudes antes de que lleguen a los microservicios correspondientes.
 
 ## Funcionalidades Ofrecidas por un API Gateway
-	- Autenticación y Aseguramiento de las políticas de seguridad.
+- Autenticación y Aseguramiento de las políticas de seguridad.
 - Balanceo de Carga y Circuit Breaking.
 - Uso de rate limits.
 - Traducción de protocolos de comunicación o formato de los datos.

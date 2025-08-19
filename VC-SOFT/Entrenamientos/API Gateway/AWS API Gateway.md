@@ -9,8 +9,8 @@ Entre las funcionalidades de AWS API Gateway se encuentran:
 2. Servicios de Seguridad Integrada:
 	1. Autenticación y Autorización con AWS IAM o AWS Cognito.
 	2. Rate Limit.
-	3. API Keys y Planes de Uso.
-	4. Web Application Firewall.
+		1. API Keys y Planes de Uso.
+	3. Web Application Firewall.
 3. Monitoreo y Logging a nivel de requests:
 	1. CloudWatch para la integración de métricas, logs y alertas en un Dashboard UI.
 4. Escalabilidad Automática para manejar millones de solicitudes por segundo. Alta disponibilidad sin necesidad de gestión de servidores o balanceadores.

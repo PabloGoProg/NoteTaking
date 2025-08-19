@@ -1,6 +1,4 @@
 
-## WSL2
-
 0. Actualizar el sistema
 ```shell
 sudo apt update

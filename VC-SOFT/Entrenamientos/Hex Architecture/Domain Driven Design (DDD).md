@@ -15,7 +15,7 @@ Es una colección de términos y definiciones las cuales son utilizados por todo
 El **diseño estratégico** es la parte de Domain-Driven Design que se enfoca en la **organización y estructuración del sistema a gran escala**, atendiendo las **relaciones entre diferentes áreas del dominio**, sus límites y la forma en que se comunican.
 
 Su objetivo principal es **dividir un sistema complejo en múltiples _Bounded Contexts_**, cada uno con su propio modelo de dominio, lenguaje y responsabilidades bien definidos, permitiendo que el sistema sea **modular, escalable y alineado con la estructura del negocio**.
-
+	
 ---
 ##### Conceptos Clave
 * **Dominio:** Se refiere al área temática en la cual estamos construyendo la aplicación. Involucra todos los conceptos, actores y procesos que tengan un nombre y estén involucrados con el funcionamiento del área temática.
