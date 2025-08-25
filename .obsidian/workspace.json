@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "52a047ef26e48660",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9484d93d6d279e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cf260b8a2330063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outlier/Pangolin Structured Outputs/How to.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How to"
+            }
+          },
+          {
+            "id": "3f9f4425bf51fd87",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e004337577e9728b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9eac608a3b735f59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b3c3afcb73528a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f40078a42d6d059f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a65f03fb7cb5688a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.00674057006836,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e29b19a40eaa26d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4e2a78691eead5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0da9e02c8488deae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Preguntas Davivienda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Preguntas Davivienda"
+            }
+          },
+          {
+            "id": "115c0ea6bfcee623",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Preguntas Davivienda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Preguntas Davivienda"
+            }
+          },
+          {
+            "id": "9079659fdb2b08cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c823e4b8cbd6e2aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Preguntas Davivienda.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Preguntas Davivienda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "3f9f4425bf51fd87",
+  "lastOpenFiles": [
+    "Outlier/Antechamber Delivery Project!.md",
+    "Pasted image 20250817092525.png",
+    "Pasted image 20250817092405.png",
+    "Pasted image 20250817091328.png",
+    "Outlier/Pangolin Structured Outputs/How to.md",
+    "VC-SOFT/Mensajes Perfiles.md",
+    "Outlier/Pangolin Structured Outputs",
+    "Outlier",
+    "Programming/Web/Frameworks/Angular",
+    "Programming/Web/Frameworks",
+    "Programming/Web",
+    "VC-SOFT/Entrenamientos/API/OpenAPI/Definition Example.md",
+    "Untitled.md",
+    "VC-SOFT/Entrenamientos/API/OpenAPI/OAS.md",
+    "VC-SOFT/Entrenamientos/Apache Kafka/Install.md",
+    "VC-SOFT/Entrenamientos/API/XML/Ejemplo - WSDL.md",
+    "VC-SOFT/Entrenamientos/API/XML/Ejemplo - XML SOAP.md",
+    "VC-SOFT/Entrenamientos/Hex Architecture/Domain Driven Design (DDD).md",
+    "VC-SOFT/Entrenamientos/Hex Architecture/Arquitectura Hexagonal.md",
+    "VC-SOFT/Entrenamientos/API/OpenAPI/Untitled",
+    "VC-SOFT/Entrenamientos/API/OpenAPI",
+    "VC-SOFT/Entrenamientos/API Gateway/AWS API Gateway.md",
+    "VC-SOFT/Entrenamientos/API Gateway/API Gateway.md",
+    "VC-SOFT/Entrenamientos/Web Sockets/Web Socket.md",
+    "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
+    "Screenshot 2025-07-08 083818.png",
+    "Screenshot 2025-07-08 083714.png",
+    "VC-SOFT/Entrenamientos/API Gateway",
+    "VC-SOFT/Entrenamientos/Untitled.md",
+    "Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
+    "Programming/Artificial Intelligence/Gen AI/Agents/Basics of Agents.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Perceptron.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Overtfitting.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Convolution.md",
+    "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
+    "Pasted image 20250707115216.png",
+    "_Second Brain/TO-DO.md",
+    "VC-SOFT/Entrenamientos/Web Sockets",
+    "VC-SOFT/Entrenamientos/Hex Architecture",
+    "VC-SOFT/Entrenamientos/Hex Architectura.md",
+    "VC-SOFT/Techs/EDA.md",
+    "sources/Screenshot 2025-03-11 at 2.32.19 PM.png",
+    "sources/Pasted image 20250213135908.png",
+    "sources/Pasted image 20250318145606.png",
+    "sources/Pasted image 20250312190528.png"
+  ]
+}
