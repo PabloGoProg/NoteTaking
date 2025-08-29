@@ -25,12 +25,14 @@
             "id": "3f9f4425bf51fd87",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Outlier/World Quests/Prompts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Prompts"
             }
           }
         ],
@@ -186,7 +188,14 @@
   },
   "active": "3f9f4425bf51fd87",
   "lastOpenFiles": [
-    "Outlier/Antechamber Delivery Project!.md",
+    "Outlier/Antichamber/Antichamber Propmts.md",
+    "Outlier/World Quests/Prompts.md",
+    "Outlier/World Quests",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Outlier/Antichamber/Antechamber Delivery Project!.md",
+    "Outlier/Antichamber",
     "Pasted image 20250817092525.png",
     "Pasted image 20250817092405.png",
     "Pasted image 20250817091328.png",
@@ -205,15 +214,12 @@
     "VC-SOFT/Entrenamientos/API/XML/Ejemplo - XML SOAP.md",
     "VC-SOFT/Entrenamientos/Hex Architecture/Domain Driven Design (DDD).md",
     "VC-SOFT/Entrenamientos/Hex Architecture/Arquitectura Hexagonal.md",
-    "VC-SOFT/Entrenamientos/API/OpenAPI/Untitled",
-    "VC-SOFT/Entrenamientos/API/OpenAPI",
     "VC-SOFT/Entrenamientos/API Gateway/AWS API Gateway.md",
     "VC-SOFT/Entrenamientos/API Gateway/API Gateway.md",
     "VC-SOFT/Entrenamientos/Web Sockets/Web Socket.md",
     "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
     "Screenshot 2025-07-08 083818.png",
     "Screenshot 2025-07-08 083714.png",
-    "VC-SOFT/Entrenamientos/API Gateway",
     "VC-SOFT/Entrenamientos/Untitled.md",
     "Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
     "Programming/Artificial Intelligence/Gen AI/Agents/Basics of Agents.md",
@@ -223,10 +229,7 @@
     "Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
     "Pasted image 20250707115216.png",
     "_Second Brain/TO-DO.md",
-    "VC-SOFT/Entrenamientos/Web Sockets",
-    "VC-SOFT/Entrenamientos/Hex Architecture",
     "VC-SOFT/Entrenamientos/Hex Architectura.md",
-    "VC-SOFT/Techs/EDA.md",
     "sources/Screenshot 2025-03-11 at 2.32.19 PM.png",
     "sources/Pasted image 20250213135908.png",
     "sources/Pasted image 20250318145606.png",
