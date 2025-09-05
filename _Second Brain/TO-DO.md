@@ -12,6 +12,10 @@
 
 ## Procesos Judiciales
 - [ ] Reunión de Planeación con Tommy y Carlos
+
+## CHEC
+- [ ] Documentar Objetos y Arquitecturas de COSEM
+
 ## CognitiVital
 - [ ] Leer los artículos propuestos
 - [ ] Backend
