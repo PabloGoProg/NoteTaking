@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outlier/Antichamber/Updates - 29-08-17.md",
+                "file": "CHEC/HES/Conceptos/AMR - Automated Meter Reading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updates - 29-08-17"
+              "title": "AMR - Automated Meter Reading"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.00674057006836
+    "width": 307.00674057006836,
+    "collapsed": true
   },
   "right": {
     "id": "e29b19a40eaa26d6",
@@ -170,8 +171,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2b3c3afcb73528a8",
+  "active": "9ae1a9eccc10d386",
   "lastOpenFiles": [
+    "CHEC/HES/Conceptos/Head End System (HES).md",
+    "CHEC/HES/Conceptos/AMR - Automated Meter Reading.md",
+    "CHEC/Qué es CHEC.md",
+    "CHEC/HES/Conceptos",
+    "CHEC/HES/Protocolos",
+    "CHEC/HES/Untitled.md",
+    "CHEC/HES/Medidores",
+    "CHEC/HES",
     "Untitled.md",
     "Outlier/Antichamber/Updates - 29-08-17.md",
     "sources/Screenshot 2025-07-08 083818.png",
@@ -186,7 +195,6 @@
     "Outlier/Cloud Evals",
     "Outlier/Antichamber Prompts.md",
     "Excalidraw/Drawing 2025-06-27 16.21.16.excalidraw.md",
-    "CHEC/Qué es CHEC.md",
     "CHEC",
     "Outlier/Antichamber/Antechamber Delivery Project!.md",
     "Outlier/Antichamber/Antichamber Propmts.md",
@@ -194,15 +202,11 @@
     "Outlier/World Quests",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
-    "Outlier/Antichamber",
     "Pasted image 20250817092525.png",
     "Pasted image 20250817092405.png",
     "Pasted image 20250817091328.png",
     "Outlier/Pangolin Structured Outputs/How to.md",
     "VC-SOFT/Mensajes Perfiles.md",
-    "Outlier/Pangolin Structured Outputs",
-    "Outlier",
     "VC-SOFT/Entrenamientos/API/OpenAPI/Definition Example.md",
     "VC-SOFT/Entrenamientos/API/OpenAPI/OAS.md",
     "VC-SOFT/Entrenamientos/Apache Kafka/Install.md",
@@ -214,8 +218,6 @@
     "VC-SOFT/Entrenamientos/API Gateway/API Gateway.md",
     "VC-SOFT/Entrenamientos/Web Sockets/Web Socket.md",
     "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
-    "Screenshot 2025-07-08 083818.png",
-    "VC-SOFT/Entrenamientos/Untitled.md",
-    "Programming/Artificial Intelligence/Gen AI/_AI Layers.md"
+    "Screenshot 2025-07-08 083818.png"
   ]
 }
