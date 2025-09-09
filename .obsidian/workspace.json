@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEC/Medidores/Qué es un Smart Meter.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es un Smart Meter"
+              "title": "Untitled"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -169,17 +168,19 @@
   },
   "active": "2ae8c060c77194f8",
   "lastOpenFiles": [
-    "CHEC/DLMS-COSEM/COSEM/Modelo de Servidor.md",
-    "CHEC/Medidores/Qué es un Smart Meter.md",
-    "CHEC/Medidores",
-    "CHEC/DLMS-COSEM/COSEM/Modelado de Objetos COSEM.md",
+    "CHEC/Proyecto HES/Medidores/Qué es un Smart Meter.md",
+    "CHEC/Proyecto HES",
+    "CHEC/Proyecto HES/Head End System",
+    "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Modelo de Servidor.md",
+    "CHEC/Proyecto HES/Medidores",
+    "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Modelado de Objetos COSEM.md",
     "University/Desarrollo Sostenible/Desarrollo y Decrecimiento Sostenible.md",
     "_Second Brain/TO-DO.md",
-    "CHEC/DLMS-COSEM/COSEM",
-    "CHEC/DLMS-COSEM/IEC-62056.md",
-    "CHEC/DLMS-COSEM/DLMS-COSEM.md",
+    "CHEC/Proyecto HES/DLMS-COSEM/COSEM",
+    "CHEC/Proyecto HES/DLMS-COSEM/IEC-62056.md",
+    "CHEC/Proyecto HES/DLMS-COSEM/DLMS-COSEM.md",
     "Untitled.md",
-    "CHEC/DLMS-COSEM",
+    "CHEC/Proyecto HES/DLMS-COSEM",
     "Outlier/World Quests/Prompts.md",
     "Outlier/World Quests",
     "Outlier/Antichamber/Updates - 29-08-17.md",
@@ -203,9 +204,6 @@
     "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
     "VC-SOFT/Entrenamientos/Hex Architecture/Domain Driven Design (DDD).md",
     "VC-SOFT/Entrenamientos/Hex Architecture/Arquitectura Hexagonal.md",
-    "VC-SOFT/Entrenamientos/Apache Kafka/Install.md",
-    "VC-SOFT/Entrenamientos/API/XML",
-    "VC-SOFT/Entrenamientos/API/OpenAPI",
     "sources/Screenshot 2025-07-08 083818.png",
     "sources/Screenshot 2025-07-08 083714.png",
     "sources/Pasted image 20250817092525.png",
