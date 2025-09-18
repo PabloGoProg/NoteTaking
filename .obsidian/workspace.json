@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.00674057006836,
-    "collapsed": true
+    "width": 307.00674057006836
   },
   "right": {
     "id": "e29b19a40eaa26d6",
@@ -173,15 +172,24 @@
   },
   "active": "9ae1a9eccc10d386",
   "lastOpenFiles": [
-    "CHEC/HES/Conceptos/Head End System (HES).md",
+    "Untitled 1.md",
     "CHEC/HES/Conceptos/AMR - Automated Meter Reading.md",
+    "CHEC/DLMS-COSEM/COSEM/Modelo de Servidor.md",
+    "CHEC/DLMS-COSEM/COSEM/Modelado de Objetos COSEM.md",
+    "CHEC/DLMS-COSEM/DLMS-COSEM.md",
+    "CHEC/DLMS-COSEM/IEC-62056.md",
+    "CHEC/Medidores/Qué es un Smart Meter.md",
+    "Untitled.md",
+    "CHEC/Medidores",
+    "CHEC/DLMS-COSEM/COSEM",
+    "CHEC/DLMS-COSEM",
+    "CHEC/HES/Conceptos/Head End System (HES).md",
     "CHEC/Qué es CHEC.md",
     "CHEC/HES/Conceptos",
     "CHEC/HES/Protocolos",
     "CHEC/HES/Untitled.md",
     "CHEC/HES/Medidores",
     "CHEC/HES",
-    "Untitled.md",
     "Outlier/Antichamber/Updates - 29-08-17.md",
     "sources/Screenshot 2025-07-08 083818.png",
     "sources/Screenshot 2025-07-08 083714.png",
@@ -199,9 +207,6 @@
     "Outlier/Antichamber/Antechamber Delivery Project!.md",
     "Outlier/Antichamber/Antichamber Propmts.md",
     "Outlier/World Quests/Prompts.md",
-    "Outlier/World Quests",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Pasted image 20250817092525.png",
     "Pasted image 20250817092405.png",
     "Pasted image 20250817091328.png",
@@ -212,12 +217,6 @@
     "VC-SOFT/Entrenamientos/Apache Kafka/Install.md",
     "VC-SOFT/Entrenamientos/API/XML/Ejemplo - WSDL.md",
     "VC-SOFT/Entrenamientos/API/XML/Ejemplo - XML SOAP.md",
-    "VC-SOFT/Entrenamientos/Hex Architecture/Domain Driven Design (DDD).md",
-    "VC-SOFT/Entrenamientos/Hex Architecture/Arquitectura Hexagonal.md",
-    "VC-SOFT/Entrenamientos/API Gateway/AWS API Gateway.md",
-    "VC-SOFT/Entrenamientos/API Gateway/API Gateway.md",
-    "VC-SOFT/Entrenamientos/Web Sockets/Web Socket.md",
-    "VC-SOFT/Entrenamientos/Web Sockets/Polling.md",
     "Screenshot 2025-07-08 083818.png"
   ]
 }
