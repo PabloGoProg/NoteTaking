@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHEC/Proyecto HES/Medidores/Qué es un Smart Meter.md",
+                "file": "_Second Brain/TO-DO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es un Smart Meter"
+              "title": "TO-DO"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -169,11 +170,12 @@
   "active": "2ae8c060c77194f8",
   "lastOpenFiles": [
     "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Arquitectura.md",
+    "Settings/Theme Settings.md",
+    "CHEC/Proyecto HES/Medidores/Qué es un Smart Meter.md",
     "Pasted image 20250910150514.png",
     "CHEC/Proyecto HES/IMPORTANTE.md",
     "_Second Brain/TO-DO.md",
     "Untitled.md",
-    "CHEC/Proyecto HES/Medidores/Qué es un Smart Meter.md",
     "CHEC/Proyecto HES",
     "CHEC/Proyecto HES/Head End System",
     "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Modelo de Servidor.md",
