@@ -1,20 +1,13 @@
 ## Personal
-- [ ] Dentista
-- [ ] Papeleo ICETEX
-## Work
-- [ ] Actualizar los logs de seguridad de SOPHOS
-- [ ] Sesión de Entrenamiento
-	- [ ] WebSockets
-	- [ ] AWS API Gateway
-	- [ ] Domain Driven Design
-	- [ ] Arquitectura Hexagonal
+
 ## University
 
-## Procesos Judiciales
-- [ ] Reunión de Planeación con Tommy y Carlos
+## Outlier
 
+## Procesos Judiciales (BitsForge)
+- [ ] Reunión de Planeación con Tommy y Carlos
 ## CHEC
-- [ ] Documentar Objetos y Arquitecturas de COSEM
+- [ ] Documento - Bidireccional Smart Meters 
 
 ## CognitiVital
 - [ ] Leer los artículos propuestos
@@ -26,3 +19,6 @@
 	- [ ] Llamados al API
 	- [ ] ParQ
 	- [ ] Consumo de las rutinas
+
+
+![](https://images.unsplash.com/photo-1529778873920-4da4926a72c2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2F0aXRvfGVufDB8fDB8fHww)
