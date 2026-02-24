@@ -1,1 +1,0 @@
-[Modelado e Implementación del ProtocoloDLMS/COSEM para aplicaciones AMI en ns-3](https://www.researchgate.net/profile/Juan-Aranda-2/publication/278410886_Spanish_Modelado_e_Implementacion_Del_Protocolo_DLMSCOSEM_Para_Aplicaciones_AMI_en_Ns-3/links/55809a9408ae607ddc3226e7/Spanish-Modelado-e-Implementacion-Del-Protocolo-DLMSCOSEM-Para-Aplicaciones-AMI-en-Ns-3.pdf)

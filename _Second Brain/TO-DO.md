@@ -1,14 +1,17 @@
 ## Personal
-
+- [ ] Completar proyecto de DSA
 ## University
-
+- [ ] Terminar Taller de BDD2 (_HOY_)
 ## Outlier
 
 ## Procesos Judiciales (BitsForge)
-- [ ] Reunión de Planeación con Tommy y Carlos
+- [ ] Terminar persistencia de los datos de los procesos de Caldas.
 ## CHEC
-- [ ] Documento - Bidireccional Smart Meters 
-
+- [ ] Documento (Medidores Bidireccionales, Medidores Selectos, DLMS/COSEm)
+- [ ] Cliente DLMS/COSEM
+	- [x] Patron Strategy para medios de comunicación.
+	- [ ] Lectura de Objetos básicos de medidores.
+	- [ ] Avances en el servidor (Simulador de Medidor) DLMS.
 ## CognitiVital
 - [ ] Leer los artículos propuestos
 - [ ] Backend
@@ -19,6 +22,3 @@
 	- [ ] Llamados al API
 	- [ ] ParQ
 	- [ ] Consumo de las rutinas
-
-
-![](https://images.unsplash.com/photo-1529778873920-4da4926a72c2?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Z2F0aXRvfGVufDB8fDB8fHww)
