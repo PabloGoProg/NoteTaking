@@ -2,6 +2,7 @@
 - [ ] Completar proyecto de DSA
 ## University
 - [ ] Terminar Taller de BDD2 (_HOY_)
+- [ ] Plantear el proyecto - Sistemas de Información.
 ## Outlier
 
 ## Procesos Judiciales (BitsForge)
