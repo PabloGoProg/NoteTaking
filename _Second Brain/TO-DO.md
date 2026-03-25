@@ -14,4 +14,12 @@
 	- [ ] Lectura de Objetos básicos de medidores.
 	- [ ] Avances en el servidor (Simulador de Medidor) DLMS.
 ## CognitiVital
-- [ ] Esperar revisión del articulo.
+- [ ] Leer los artículos propuestos
+- [ ] Backend
+	- [ ] Sistema de cache para denegar tokens
+	- [ ] Sistema de renovación de Tokens
+- [ ] FRONTEND
+	- [ ] Manejo de estado global de usuario y la auth
+	- [ ] Llamados al API
+	- [ ] ParQ
+	- [ ] Consumo de las rutinas

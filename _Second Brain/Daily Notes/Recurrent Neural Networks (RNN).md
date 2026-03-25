@@ -10,4 +10,5 @@ Ante entradas de gran tamaño o tamaños muy pequeños, se presentan problemas d
 1. Compuerta del olvido: $f_t = \alpha(W_f*[h_{t-1}, x_t] + b_f)$ relación del instante pasado con la entrada actual
 
 	Se incluye una relación con la información relevante de momentos pasados $C_t = f_t+C_{t-1}+t_i*C_t$.
-1. 
+
+[[LLMs]]

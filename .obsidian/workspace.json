@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fd570cf1a309cdf7",
+        "id": "fda0fe890830d002",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc1e77646fce4d2",
+            "id": "5c8bdaadee2cae7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "University/Sistemas Información/Sistemas de Información.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Sistemas de Información"
-            }
-          },
-          {
-            "id": "8bb33f1f5622172e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Settings/Theme Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theme Settings"
-            }
-          },
-          {
-            "id": "c9eef4c2d31a810f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,31 +141,62 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "fc33b1f506f3ce96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c9eef4c2d31a810f",
+  "active": "fc33b1f506f3ce96",
   "lastOpenFiles": [
     "Jugadores Promesa.md",
+    "Untitled.md",
+    "Settings/Theme Settings.md",
     "University/Sistemas Información/Sistemas de Información.md",
+    "sources/Pasted image 20250918164933.png",
+    "sources/Pasted image 20250918164828.png",
+    "sources/Pasted image 20250918164655.png",
+    "sources/Pasted image 20250918164622.png",
+    "sources/Pasted image 20250918164610.png",
+    "Projects/Modelo Econometrico/Sobre el Modelo.md",
+    "Projects/Modelo Econometrico/Obtención de Datos.md",
+    "Projects/Modelo Econometrico/Contexto del Proyecto.md",
+    "Projects/Modelo Econometrico",
+    "Projects",
+    "Learning/AI/Frameworks/LangGraph/Concepts/Tools.md",
+    "Learning/AI/Frameworks/LangGraph/Concepts/State.md",
+    "Learning/AI/Frameworks/LangGraph/Concepts/Node.md",
+    "Learning/AI/Frameworks/LangGraph/Concepts/Messages.md",
+    "Learning/AI/Frameworks/LangGraph/Concepts/Graph.md",
+    "Learning/AI/Frameworks/LangGraph/Concepts",
+    "Learning/AI/Frameworks/LangGraph",
+    "Learning/AI/Frameworks",
+    "Learning/AI",
+    "Learning",
     "sources/Pasted image 20251025092104.png",
     "University/Sistemas Información/Conceptualización.md",
     "_Second Brain/TO-DO.md",
@@ -208,38 +208,17 @@
     "CHEC/Meter Reader PJ/1. Association.md",
     "CHEC/Meter Reader PJ",
     "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Arquitectura.md",
-    "Settings/Theme Settings.md",
     "CHEC/Proyecto HES/Medidores/Qué es un Smart Meter.md",
     "sources/Pasted image 20250910150514.png",
     "CHEC/Proyecto HES/IMPORTANTE.md",
-    "CHEC/Proyecto HES",
-    "CHEC/Proyecto HES/Head End System",
     "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Modelo de Servidor.md",
-    "CHEC/Proyecto HES/Medidores",
     "CHEC/Proyecto HES/DLMS-COSEM/COSEM/Modelado de Objetos COSEM.md",
     "University/Desarrollo Sostenible/Desarrollo y Decrecimiento Sostenible.md",
-    "CHEC/Proyecto HES/DLMS-COSEM/COSEM",
     "CHEC/Proyecto HES/DLMS-COSEM/IEC-62056.md",
     "CHEC/Proyecto HES/DLMS-COSEM/DLMS-COSEM.md",
-    "CHEC/Proyecto HES/DLMS-COSEM",
-    "Outlier/World Quests/Prompts.md",
-    "Outlier/World Quests",
-    "Outlier/Antichamber/Updates - 29-08-17.md",
-    "Outlier/Antichamber/Antichamber Propmts.md",
-    "Outlier/Antichamber/Antechamber Delivery Project!.md",
-    "Outlier/Antichamber",
-    "CHEC/Qué es CHEC.md",
-    "Outlier/Cloud Evals/Documentations.md",
-    "Outlier/Antechamber Delivery Project!.md",
-    "Outlier/Antichamber Prompts.md",
     "sources/Pasted image 20250707115216.png",
     "sources/Screenshot 2025-07-08 083818.png",
     "sources/Screenshot 2025-07-08 083714.png",
-    "sources/Pasted image 20250817092525.png",
-    "sources/Pasted image 20250817092405.png",
-    "sources/Pasted image 20250817091328.png",
-    "Pasted image 20250318161113.png",
-    "sources/Pasted image 20250318145606.png",
     "Gen AI and LLMs/Untitled.canvas"
   ]
 }
