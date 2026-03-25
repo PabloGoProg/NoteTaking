@@ -1,0 +1,5 @@
+- Problemas con el registro.
+- Campo nombre descriptivo.
+- Cambiar a números porcentuales en el front.
+- Revisar con respecto a remesas
+- 
