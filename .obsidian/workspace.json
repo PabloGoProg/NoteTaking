@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 521.5004348754883
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -176,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e9dd54427736bef9",
+  "active": "f28312e7513c740c",
   "lastOpenFiles": [
     "Learning/Programming/Programming Fundamentals/Computer Networks/Computer Networks.md",
     "Untitled.md",
@@ -184,23 +184,23 @@
     "Untitled.md 13-49-50-315.md",
     "Configuración Máquina Virtual RDP para Guacamole.md",
     "2026-03-26.md",
-    "Learning/Programming/DevOps/IaC/Tools/Terraform/00. What is Terraform?.md",
+    "Learning/Programming/DevOps/IaC/Tools/Terraform/00. What is Terraform.md",
     "Learning/Programming/Programming Fundamentals/Computer Networks/Networking",
     "Learning/Programming/Programming Fundamentals/Computer Networks",
     "Learning/Programming/Programming Fundamentals",
     "Learning/Programming/DevOps/IaC/Tools/Terraform/01. Terraform Language.md",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Concepts/What is an Agentic CLI?.md",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Concepts/What is an Agentic CLI?.md",
     "Settings/Theme Settings.md",
     "TechTalk.md",
     "VCSOFT/Infra/Servicios/PROXMOX.md",
     "VCSOFT/Infra/Keycloack IdP.md",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Copilot CLI/Best Practices.md",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/OpenCode CLI",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Gemini CLI",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Copilot CLI",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Concepts",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools",
-    "Learning/Programming/Programming With AI/Tools/Agentic CLI's",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Tools/Copilot CLI/Best Practices.md",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Tools/OpenCode CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Tools/Gemini CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Tools/Copilot CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Concepts",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs/Tools",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLIs",
     "Learning/Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
     "Untitled 1.md",
     "VCSOFT/Infra/Documentación Infra/ROADMAP-APRENDIZAJE.md",
