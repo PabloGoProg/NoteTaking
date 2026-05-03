@@ -1,5 +1,0 @@
-### Funciones
-
-```Go
-func suma
-```
