@@ -1,0 +1,1 @@
+Los modelos tradicionales de redes neuronales (Fully Connected o un ML Algorithm) no pueden procesar 

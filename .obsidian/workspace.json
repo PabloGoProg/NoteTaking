@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fda0fe890830d002",
+        "id": "1a502ab2ebc4da73",
         "type": "tabs",
         "children": [
           {
-            "id": "5c8bdaadee2cae7b",
+            "id": "f14be85539910962",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Programming/Programming Fundamentals/Computer Networks/Computer Networks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Computer Networks"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -143,7 +148,7 @@
             }
           },
           {
-            "id": "fc33b1f506f3ce96",
+            "id": "e9dd54427736bef9",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -157,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,47 +173,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "fc33b1f506f3ce96",
+  "active": "f14be85539910962",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_Second Brain/TO-DO.md",
+    "Learning/Programming/Programming Fundamentals/Computer Networks/Computer Networks.md",
+    "Untitled.md",
+    "Learning/Programming/Programming Fundamentals/Computer Networks/Networking/IPv4 Addressing Architecture",
+    "Untitled.md 13-49-50-315.md",
+    "Configuración Máquina Virtual RDP para Guacamole.md",
+    "2026-03-26.md",
+    "Learning/Programming/DevOps/IaC/Tools/Terraform/00. What is Terraform?.md",
+    "Learning/Programming/Programming Fundamentals/Computer Networks/Networking",
+    "Learning/Programming/Programming Fundamentals/Computer Networks",
+    "Learning/Programming/Programming Fundamentals",
+    "Learning/Programming/DevOps/IaC/Tools/Terraform/01. Terraform Language.md",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Concepts/What is an Agentic CLI?.md",
+    "Settings/Theme Settings.md",
+    "TechTalk.md",
     "VCSOFT/Infra/Servicios/PROXMOX.md",
-    "VCSOFT/TBK/Soporte Productivo.md",
-    "VCSOFT/TBK/DataPower Operations Dashboard.md",
-    "VCSOFT/Infra/Servicios",
     "VCSOFT/Infra/Keycloack IdP.md",
-    "VCSOFT/TBK",
-    "VCSOFT/Infra",
-    "VCSOFT",
-    "Learning/Testing/Testing Techniques.md",
-    "Learning/Testing",
-    "Learning/Programming/Programming Languages/Java/Frameworks/Quarkus/Hibernate ORM/Quarkus-Hibernate Configuration.md",
-    "Learning/Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Transformers.md",
-    "Learning/Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers/Tokens.md",
-    "Learning/Programming/Programming Languages/Java/Frameworks/Quarkus/Hibernate ORM",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode/04 - Copilot Edits.md",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode/05 - Personalizar Copilot.md",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode/03 - Copilot Chat.md",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode/02- Chat Context.md",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode/01 - Code Completions.md",
-    "Learning/Programming/Artificial Intelligence/Gen AI/Architectures/Tranformers",
-    "Learning/Programming/Artificial Intelligence/Gen AI/Agents/Basics of Agents.md",
-    "Learning/Programming/Programming Languages/Java/Frameworks/Quarkus",
-    "Learning/Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Perceptron.md",
-    "Learning/Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Overtfitting.md",
-    "Learning/Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/Convolution.md",
-    "Learning/Programming/Artificial Intelligence/Deep Learning/Convolutional Neural Networks/CNN.md",
-    "Learning/Programming/Programming Languages/Go/Core/Var Types.md",
-    "Learning/Programming/Programming Languages/Go/Core/Go Lang.md",
-    "Learning/Programming/Programming Languages/Go/Core/Functions & Methods.md",
-    "Learning/Programming/Programming Languages/Go/Core/Conditionals & Loops.md",
-    "Learning/Programming/Tools/GitHub Copilot/VSCode",
-    "Learning/Programming/Programming With AI/Spec Driven Development/Specification.md",
-    "Learning/Programming/Programming With AI/Spec Driven Development/SDD.md",
-    "Learning/Programming/Artificial Intelligence/Gen AI/Architectures",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Copilot CLI/Best Practices.md",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/OpenCode CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Gemini CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools/Copilot CLI",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Concepts",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's/Tools",
+    "Learning/Programming/Programming With AI/Tools/Agentic CLI's",
+    "Learning/Programming/Artificial Intelligence/Gen AI/_AI Layers.md",
+    "Untitled 1.md",
+    "VCSOFT/Infra/Documentación Infra/ROADMAP-APRENDIZAJE.md",
+    "VCSOFT/Infra/Documentación Infra/02-mapa-del-repositorio.md",
+    "VCSOFT/Infra/Documentación Infra/01-visión-general.md",
+    "VCSOFT/Infra/Documentación Infra/README.md",
+    "VCSOFT/Infra/Documentación Infra/08-herramientas-operativas.md",
+    "VCSOFT/Infra/Documentación Infra/07-ansible.md",
+    "VCSOFT/Infra/Documentación Infra/06-kubernetes-y-plataforma.md",
+    "VCSOFT/Infra/Documentación Infra/05-secretos-infisical.md",
+    "VCSOFT/Infra/Documentación Infra/04-incus-y-red.md",
+    "VCSOFT/Infra/Documentación Infra/03-terraform-stacks.md",
+    "conflict-files-obsidian-git.md",
     "sources/Pasted image 20250918164933.png",
     "sources/Pasted image 20250918164828.png",
     "sources/Pasted image 20250918164655.png",
