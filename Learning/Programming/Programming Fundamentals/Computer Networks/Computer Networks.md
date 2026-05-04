@@ -39,4 +39,3 @@ Which are the metrics to consider a network effective?
 	4. Transmission media
 	5. ...
 3. **Security**: Protect the transmitted data for una
-
