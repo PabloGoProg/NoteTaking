@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5004348754883
+    "width": 324.5004348754883
   },
   "right": {
     "id": "0ced8cbaa90af4fd",
@@ -176,7 +176,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "f28312e7513c740c",
+  "active": "f14be85539910962",
   "lastOpenFiles": [
     "Learning/Programming/Programming Fundamentals/Computer Networks/Computer Networks.md",
     "Untitled.md",
