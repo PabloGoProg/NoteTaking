@@ -1,4 +1,4 @@
-Retrieval Augmented Generation (RAG)is an approach that further improves the performance of large language models by giving the access to information that don't know from the training.
+Retrieval Augmented Generation (RAG) is an approach that further improves the performance of large language models by giving the access to information that don't know from the training.
 
 ---
 ## Why RAG are Important for LLM Based Applications
@@ -14,6 +14,8 @@ The issue?
 RAG systems propose to _collect information_ and _reason and respond_ using the collected info before generating the answer.
 
 `[1. User Prompt] -> [2. RAG System] -> [3. Augmented Prompt] -> [4. LLM]`
+
+**Note**: An _augmented prompt_ is the combination of the user prompt and the retrieved information.
 
 ---
 ## RAG Components
