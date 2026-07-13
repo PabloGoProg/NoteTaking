@@ -63,7 +63,7 @@ $ docker stop -t 30 (container_name|cont_id) # 30 secs until shutdown
 # Creates the container
 # Run the container
 $ docker run --name container_name image_name
-$ docker run -it --rm -d -p 8080:80 --name cont_name image_name
+$ docker run -it --rm -d -p 8080:80 --name (cont_name) (image_name)
 
 # Shows cont consummed resources stats
 $ docker stats
